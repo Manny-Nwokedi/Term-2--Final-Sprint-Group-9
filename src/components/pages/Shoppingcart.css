@@ -1,0 +1,40 @@
+/* Shoppingcart.css */
+
+/* Styles for the shopping cart container */
+.ShoppingCart {
+  background-color: #001f3f;
+  color: #fff; /* White text color */
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 24px;
+  min-height: 77vh; /* Minimum height of the container */
+}
+
+/* Styles for each item in the shopping cart */
+.ShoppingCartItem {
+  margin-bottom: 10px;
+}
+
+/* Styles for item details (name, amount, price) */
+/* .ShoppingCartItemDetails {
+  flex: 1;
+  margin-right: 20px;
+} */
+
+/* Style for the remove button */
+.RemoveButton {
+  background-color: #ff4136; /* Red background color */
+  color: #fff; /* White text color */
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.footer {
+  background-color: #000; /* Black footer background color */
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+  margin-top: auto; /* Push the footer to the bottom */
+}

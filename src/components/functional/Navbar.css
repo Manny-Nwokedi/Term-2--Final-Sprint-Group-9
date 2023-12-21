@@ -1,0 +1,47 @@
+
+.top-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d2b48c; /* Yellow-brown color for the top bar */
+  padding: 10px;
+  font-family:'Amaranth', italic
+  
+}
+
+.top-bar h1 {
+  margin: 0;
+  color: #FFCA7B; /* Text color */
+  -webkit-text-stroke: 1px black; /* WebKit browsers (Safari, Chrome) */
+  
+}
+
+.logo {
+  width: 30px; /* The width of the Mug Symbol.png */
+  margin-left: 0px; /* Add some margin for separation between text and logo */
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #5C4201; /* Brown background color */
+  padding: 10px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+  align-items: center; /* Center the content vertically */
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #fff; /* White text color for links */
+  align-items: center;
+}
+
+.nav-link h3 {
+  margin: 0; /* Remove default margin for h3 */
+  color: #fff;
+}

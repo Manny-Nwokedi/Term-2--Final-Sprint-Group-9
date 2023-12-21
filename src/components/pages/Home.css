@@ -1,0 +1,45 @@
+
+/* Home.css */
+
+body {
+    background-color: #5C4201; /* Brown background color */
+    color: #fff; /* White text color */
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.home-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full viewport height */
+}
+
+.home-content {
+    text-align: center;
+    font-size: 36px; /* Adjust the font size as needed */
+    font-family:'Amaranth', italic
+}
+
+.home-image {
+    width: 500px; 
+    margin: 20px; 
+    height: auto;
+}
+
+.footer {
+    background-color: #000; /* Black background color */
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 3.8%;
+}
+
+.home-content {
+    text-align: center;
+    font-size: 24px; 
+    color: #fff; 
+}

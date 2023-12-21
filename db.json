@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mug 'Warm Cozy'",
+      "description": "Mug 'Warm Cozy'",
+      "price": 15.0,
+      "image": "https://images.unsplash.com/photo-1578357809053-ec3ed130a450?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Mug Set Grey",
+      "description": "Mug Set Grey",
+      "price": 23.0,
+      "image": "https://images.unsplash.com/photo-1577819671984-124b026a81ed?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Mug Set Diff",
+      "description": "Mug Set Diff",
+      "price": 25.0,
+      "image": "https://plus.unsplash.com/premium_photo-1666974543981-38c24049910d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Mug 'More coffee'",
+      "description": "Mug 'More coffee'",
+      "price": 15.0,
+      "image": "https://images.unsplash.com/photo-1586005309510-fee1ad863c04?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "name": "Mug Set Cats",
+      "description": "Mug Set Cats",
+      "price": 20.0,
+      "image": "https://images.unsplash.com/photo-1539547256500-3c6cfd15bfdb?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "name": "Mug Yellow",
+      "description": "Mug Yellow",
+      "price": 16.0,
+      "image": "https://images.unsplash.com/photo-1606820838792-e68ffb8efde0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}

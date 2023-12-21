@@ -1,0 +1,46 @@
+
+body {
+    background-color: #5C4201;
+    color: #fff; /* White text color */
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+  
+  .top-bar {
+    background-color: #D9D0B2; /* Brown top bar background color */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .logo {
+    width: 30px; /* The width of the Mug Symbol.png */
+  }
+  
+  .Main_Content_Area {
+    padding: 20px;
+    min-height: calc(100vh - 80px); /* Subtract the height of the top bar */
+  }
+  
+  .footer {
+    background-color: #000; /* Black footer background color */
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 3.8%;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 10px;
+    color: #fff;
+ }
+ 
+ .nav-links a {
+    color: #fff;
+    text-decoration: none;
+ }
